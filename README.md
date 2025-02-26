@@ -22,8 +22,12 @@ Flipent is a software application for interpreting and displaying MCO Punch Card
     ```
 3. Install the required dependencies:
     ```sh
-    pip install numpy typer
+    pip install -r requirements.txt
     ```
+4. install the program
+   ```sh
+   pyinstaller ./scripts/pypunch.step
+   ```
 
 ## Usage
 
@@ -31,5 +35,5 @@ Flipent is a software application for interpreting and displaying MCO Punch Card
 
 Run the CLI application with the following command:
 ```sh
-python /home/miguel/Documents/flipent/main.py <version> <pattern>
+pypunch <version> <pattern>
 ```
