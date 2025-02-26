@@ -26,8 +26,10 @@ def parse_resume_pattern(pattern, rows, cols):
 
 def display_punch_card(grid):
     """Displays the punch card grid in a readable format."""
-    for row in grid:
-        print(' '.join(row))
+    print("Punch Card Grid:")
+    print("  " + " ".join(str(i) for i in range(grid.shape[1])))
+    for idx, row in enumerate(grid):
+        print(str(idx) + " " + " ".join(row))
 
 def flipent_interpreter(grid):
     """Interprets the punch card grid as Flipent language commands."""
