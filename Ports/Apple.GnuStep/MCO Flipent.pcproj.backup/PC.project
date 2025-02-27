@@ -1,0 +1,38 @@
+{
+    COMPILEROPTIONS = "";
+    CPPOPTIONS = "";
+    "CREATION_DATE" = "2025-02-27 18:23:16 -0300";
+    INSTALLDIR = "$(HOME)/GNUstep";
+    LANGUAGE = English;
+    LINKEROPTIONS = "";
+    MAKEFILEDIR = "$(GNUSTEP_MAKEFILES)";
+    "OBJC_COMPILEROPTIONS" = "";
+    "PROJECT_AUTHORS" = (
+    );
+    "PROJECT_COPYRIGHT" = "Copyright (C) 200x";
+    "PROJECT_COPYRIGHT_DESC" = "Released under ...";
+    "PROJECT_CREATOR" = "miguel,,,";
+    "PROJECT_DESCRIPTION" = "No description avaliable!";
+    "PROJECT_GROUP" = "No group available!";
+    "PROJECT_MAINTAINER" = "miguel,,,";
+    "PROJECT_NAME" = "MCO Flipent";
+    "PROJECT_RELEASE" = "0.1";
+    "PROJECT_SUMMARY" = "No summary available!";
+    "PROJECT_TYPE" = Aggregate;
+    "PROJECT_URL" = "";
+    "SEARCH_HEADER_DIRS" = (
+    );
+    "SEARCH_LIB_DIRS" = (
+    );
+    SUBPROJECTS = (
+    );
+    "SUPPORTING_FILES" = (
+	"GNUmakefile.preamble",
+	GNUmakefile,
+	"GNUmakefile.postamble"
+    );
+    "USER_LANGUAGES" = (
+	AmericanEnglish,
+	English
+    );
+}

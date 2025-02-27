@@ -3,6 +3,8 @@
 ## Plataforms
 
 - [ ] MPC Iv
-- [ ] GNUStep (GUI)
+- [x] GNUStep (GUI)
 - [ ] IBM z/OS (preview)
-More soon!
+- [x] iOS/iPadOS 18+ (Swift)
+- [x] macOS 11.x+ (Swift)
+- [x] Android 11+ (Kotlin)
